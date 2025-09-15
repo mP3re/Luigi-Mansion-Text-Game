@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Item
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Item\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=name\ itemDescription\ canTake\ weight
+comment1.target=Item(java.lang.String,\ java.lang.String,\ boolean,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Item\r\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\r\n\ return\ the\ name\ of\ the\ item.\r\n
+comment3.params=
+comment3.target=java.lang.String\ getItemDescription()
+comment3.text=\r\n\ return\ the\ descirption\ of\ the\ item\r\n
+comment4.params=
+comment4.target=boolean\ getCanTake()
+comment4.text=\r\nsee\ if\ the\ item\ is\ grabbable\ or\ not\r\n
+comment5.params=
+comment5.target=int\ getWeight()
+comment5.text=\r\n\ get\ the\ weight\ of\ the\ item\r\n
+numComments=6

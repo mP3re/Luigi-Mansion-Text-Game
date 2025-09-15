@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Inventory
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Inventory\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Inventory()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Inventory\r\n
+comment2.params=
+comment2.target=void\ getTotalWeight()
+comment2.text=\r\n\ return\ the\ total\ weight\ of\ the\ items\ in\ the\ inventory\ \r\n
+comment3.params=currentItem
+comment3.target=Item\ addInventory(Item)
+comment3.text=\r\n\ add\ an\ item\ to\ inventory\r\n
+comment4.params=
+comment4.target=void\ displayInventory()
+comment4.text=\r\n\ print\ out\ the\ current\ player\ inventory\r\n
+comment5.params=currentItem
+comment5.target=Item\ inInventory(java.lang.String)
+comment5.text=\r\n\ check\ if\ an\ item\ is\ in\ inventory\r\n
+comment6.params=currentItem
+comment6.target=void\ removeInventory(Item)
+comment6.text=\r\n\ remove\ an\ item\ from\ inventory\r\n
+numComments=7
