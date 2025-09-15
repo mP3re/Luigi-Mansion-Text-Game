@@ -1,5 +1,5 @@
 Project: zuul-better
-Authors: Michael Kölling and David J. Barnes
+Authors: Michael Kölling, David J. Barnes and Megan Pereira
 
 This project is part of the material for the book
 
